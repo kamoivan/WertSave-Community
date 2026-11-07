@@ -4,9 +4,9 @@ import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 import Navbar from "./Components/Navbar";
-import Home from "./Pages/Home";
-import Join from "./Pages/Join";
-import About from "./Pages/About";
+import Home from "./pages/Home";
+import Join from "./pages/Join";
+import About from "./pages/About";
 
 import "./App.css";
 
