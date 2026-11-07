@@ -27,9 +27,9 @@ import {
 
 import { toast } from "react-toastify";
 
-import { joinSchema, joinDefaultValues } from "./joinSchema";
+import { joinSchema, joinDefaultValues } from "./JoinSchema";
 
-import "./Join.css";
+import "./join.css";
 
 const participationOptions = [
   {
