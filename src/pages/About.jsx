@@ -27,7 +27,7 @@ import {
   CircleDollarSign,
 } from "lucide-react";
 
-import "./About.css";
+import "./about.css";
 
 const problems = [
   {
